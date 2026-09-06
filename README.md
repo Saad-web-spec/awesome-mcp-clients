@@ -2188,6 +2188,21 @@ Qordinate is a personal assistant that talks on your behalf, it knows what to sh
 
 PraisonAI is a production-ready Multi-AI Agents framework with native MCP integration. Features fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, agentic workflows (route/parallel/loop/repeat), built-in memory, and self-reflection. Available as Python & JavaScript SDKs.
 
+
+### DevScratchpad AI Skill Studio
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/Saad-web-spec/DevScratchPad</td></tr>
+<tr><th align="left">Website</th><td>https://www.devscratchpad.tech/ai-skill-studio/mcp-config</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web (100% Client-side)</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript / React</td></tr>
+</table>
+
+DevScratchpad AI Skill Studio provides an interactive, client-side configuration builder for Model Context Protocol servers (`claude.json`), Cursor `.mdc` rules, and Claude Code skills. Features pre-configured templates for PostgreSQL, GitHub, Local Filesystem, SQLite, and Puppeteer with live JSON validation and export.
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
